@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CanChange
+  - Block
+  - Character
+  - Water
+  - Ignore
+  - FxTemporaire
+  - SoundManager
+  - Foots
+  - Attack
+  - Wall
+  - Floor
+  - Stage
+  - DeathZone
+  - Enemy
+  - Ground
+  - CreatePoint
+  - Core
+  - SlowArea
+  - SlowTrap
+  - DestWave
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Camera1
+  - Camera2
+  - WithoutEnemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

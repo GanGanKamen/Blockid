@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Girl Avatar Mask
+  m_Mask: 00000000000000000000000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Joints
+    m_Weight: 0
+  - m_Path: Joints/Hips
+    m_Weight: 0
+  - m_Path: Joints/Hips/LeftUpLeg
+    m_Weight: 0
+  - m_Path: Joints/Hips/LeftUpLeg/LeftLeg
+    m_Weight: 0
+  - m_Path: Joints/Hips/LeftUpLeg/LeftLeg/LeftFoot
+    m_Weight: 0
+  - m_Path: Joints/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase
+    m_Weight: 0
+  - m_Path: Joints/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToeBase/LeftToe
+    m_Weight: 0
+  - m_Path: Joints/Hips/RightUpLeg
+    m_Weight: 0
+  - m_Path: Joints/Hips/RightUpLeg/RightLeg
+    m_Weight: 0
+  - m_Path: Joints/Hips/RightUpLeg/RightLeg/RightFoot
+    m_Weight: 0
+  - m_Path: Joints/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase
+    m_Weight: 0
+  - m_Path: Joints/Hips/RightUpLeg/RightLeg/RightFoot/RightToeBase/RightToe
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/LeftSholder
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/LeftSholder/LeftArm
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/LeftSholder/LeftArm/LeftForeArm
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/LeftSholder/LeftArm/LeftForeArm/LeftHand
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/LeftSholder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/LeftSholder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftFinger
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/LeftSholder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftFinger/LeftFinger1
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/LeftSholder/LeftArm/LeftForeArm/LeftHand/LeftFingerBase/LeftFinger/LeftFinger1/LeftFingerTip
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/LeftSholder/LeftArm/LeftForeArm/LeftHand/LeftThumbBase
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/LeftSholder/LeftArm/LeftForeArm/LeftHand/LeftThumbBase/LeftThumb1
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/LeftSholder/LeftArm/LeftForeArm/LeftHand/LeftThumbBase/LeftThumb1/LeftThumb2
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/LeftSholder/LeftArm/LeftForeArm/LeftHand/LeftThumbBase/LeftThumb1/LeftThumb2/LeftThumbTip
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/HairBase
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/HairBase/Hair
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/HairBase/Hair/Hair1
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/HairBase/Hair/Hair1/hair2
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/HairBase/Hair/Hair1/hair2/hair3
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/HairBase/Hair/Hair1/hair2/hair3/HairTip
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/LeftSideHairBase
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/LeftSideHairBase/LeftSideHair
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/LeftSideHairBase/LeftSideHair/LeftSideHair1
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/LeftSideHairBase/LeftSideHair/LeftSideHair1/LeftSideHair2
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/LeftSideHairBase/LeftSideHair/LeftSideHair1/LeftSideHair2/LeftSideHairTip
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/RibonBase
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/RibonBase/LeftRibon
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/RibonBase/LeftRibon/LeftRibon1
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/RibonBase/LeftRibon/LeftRibon1/LeftRibonTip
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/RibonBase/RightRibon
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/RibonBase/RightRibon/RightRibon1
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/RibonBase/RightRibon/RightRibon1/RightRibonTip
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/RightSideHairBase
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/RightSideHairBase/RightSideHair
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/RightSideHairBase/RightSideHair/RightSideHair1
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/RightSideHairBase/RightSideHair/RightSideHair1/RightSideHair2
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/Neck/Head/HeadTop/RightSideHairBase/RightSideHair/RightSideHair1/RightSideHair2/RightSideHairTip
+    m_Weight: 0
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/RightSholder
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/RightSholder/RightArm
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/RightSholder/RightArm/RightForeArm
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/RightSholder/RightArm/RightForeArm/RightHand
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/RightSholder/RightArm/RightForeArm/RightHand/RightFingerBase
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/RightSholder/RightArm/RightForeArm/RightHand/RightFingerBase/RightFinger
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/RightSholder/RightArm/RightForeArm/RightHand/RightFingerBase/RightFinger/RightFinger1
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/RightSholder/RightArm/RightForeArm/RightHand/RightFingerBase/RightFinger/RightFinger1/RightFingerTip
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/RightSholder/RightArm/RightForeArm/RightHand/RightThumbBase
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/RightSholder/RightArm/RightForeArm/RightHand/RightThumbBase/RightThumb1
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/RightSholder/RightArm/RightForeArm/RightHand/RightThumbBase/RightThumb1/RightThumb2
+    m_Weight: 1
+  - m_Path: Joints/Hips/Spine/Spine1/Spine2/RightSholder/RightArm/RightForeArm/RightHand/RightThumbBase/RightThumb1/RightThumb2/RightThumbTip
+    m_Weight: 1
+  - m_Path: Joints/IK_LLeg
+    m_Weight: 0
+  - m_Path: Joints/IK_RLeg
+    m_Weight: 0
+  - m_Path: Skin
+    m_Weight: 0
+  - m_Path: Skin/Body
+    m_Weight: 1
+  - m_Path: Skin/Cloth
+    m_Weight: 1
+  - m_Path: Skin/Eye_Left
+    m_Weight: 0
+  - m_Path: Skin/Eye_Right
+    m_Weight: 0
